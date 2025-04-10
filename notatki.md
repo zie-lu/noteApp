@@ -11,3 +11,4 @@
 * npm i dotenv - instalacja obslugi .env
 * npm i mongoose - instalacja oblsugi mongo
 * npm i envalid - instalacja envalid do walidacji env
+* npm install morgan - instalacja morgan do logow
