@@ -115,7 +115,7 @@ export const deleteNote: RequestHandler = async (req, res, next) => {
         await NoteModel.findByIdAndDelete(noteId).exec();
 
         res.sendStatus(204);
-        
+
     } catch (error) {
         next(error);
     }
