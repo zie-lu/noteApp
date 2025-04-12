@@ -12,3 +12,5 @@
 * npm i mongoose - instalacja oblsugi mongo
 * npm i envalid - instalacja envalid do walidacji env
 * npm install morgan - instalacja morgan do logow
+* npm i http-errors - instalacja pakiettu do obsLugi komuntikatów o błędach
+* npm i -D @types/http-errors - dodanie typow
