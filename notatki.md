@@ -14,3 +14,8 @@
 * npm install morgan - instalacja morgan do logow
 * npm i http-errors - instalacja pakiettu do obsLugi komuntikatów o błędach
 * npm i -D @types/http-errors - dodanie typow
+
+
+### Komendy bacend
+* npx create-react-app frontend --template typescript - inicjalizacja aplikacji react z ts
+* npm install react-bootstrap bootstrap - instalacja bootstrap
