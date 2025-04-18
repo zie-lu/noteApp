@@ -1,6 +1,6 @@
 import "dotenv/config";
 import express, { NextFunction, Request, Response } from "express";
-import notesRoutes from "./routes/notes";
+import notesRoutes from "./routes/notesRouter";
 import morgan from "morgan";
 import createHttpError, { isHttpError } from "http-errors";
 
